@@ -3,6 +3,41 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DTSEA"]
+	path = DTSEA
+	url = https://github.com/hanjunwei-lab/dtsea
+	shallow = true
+	registered = true
+[submodule "ICDS"]
+	path = ICDS
+	url = https://github.com/hanjunwei-lab/icds
+	shallow = true
+	registered = true
+[submodule "LncPath"]
+	path = LncPath
+	url = https://github.com/hanjunwei-lab/lncpath
+	shallow = true
+	registered = true
+[submodule "MiRSEA"]
+	path = MiRSEA
+	url = https://github.com/hanjunwei-lab/mirsea
+	shallow = true
+	registered = true
+[submodule "PMAPscore"]
+	path = PMAPscore
+	url = https://github.com/hanjunwei-lab/pmapscore
+	shallow = true
+	registered = true
+[submodule "psSubpathway"]
+	path = psSubpathway
+	url = https://github.com/hanjunwei-lab/pssubpathway
+	shallow = true
+	registered = true
+[submodule "SMDIC"]
+	path = SMDIC
+	url = https://github.com/hanjunwei-lab/smdic
+	shallow = true
+	registered = true
 [submodule "SubtypeDrug"]
 	path = SubtypeDrug
 	url = https://github.com/hanjunwei-lab/subtypedrug
