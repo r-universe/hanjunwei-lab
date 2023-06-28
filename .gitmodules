@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DrugSim2DR"]
 	path = DrugSim2DR
 	url = https://github.com/cran/DrugSim2DR
-	shallow = true
-	registered = true
 [submodule "DRviaSPCN"]
 	path = DRviaSPCN
 	url = https://github.com/cran/DRviaSPCN
-	shallow = true
-	registered = true
 [submodule "DTSEA"]
 	path = DTSEA
 	url = https://github.com/hanjunwei-lab/dtsea
-	shallow = true
-	registered = true
 [submodule "ICDS"]
 	path = ICDS
 	url = https://github.com/hanjunwei-lab/icds
-	shallow = true
-	registered = true
 [submodule "LncPath"]
 	path = LncPath
 	url = https://github.com/hanjunwei-lab/lncpath
-	shallow = true
-	registered = true
 [submodule "MiRSEA"]
 	path = MiRSEA
 	url = https://github.com/hanjunwei-lab/mirsea
-	shallow = true
-	registered = true
 [submodule "pathwayTMB"]
 	path = pathwayTMB
 	url = https://github.com/cran/pathwayTMB
-	shallow = true
-	registered = true
 [submodule "PMAPscore"]
 	path = PMAPscore
 	url = https://github.com/hanjunwei-lab/pmapscore
-	shallow = true
-	registered = true
 [submodule "psSubpathway"]
 	path = psSubpathway
 	url = https://github.com/hanjunwei-lab/pssubpathway
-	shallow = true
-	registered = true
 [submodule "SMDIC"]
 	path = SMDIC
 	url = https://github.com/hanjunwei-lab/smdic
-	shallow = true
-	registered = true
 [submodule "SubtypeDrug"]
 	path = SubtypeDrug
 	url = https://github.com/hanjunwei-lab/subtypedrug
-	shallow = true
-	registered = true
