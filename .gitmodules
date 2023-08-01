@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DrugSim2DR"]
-	path = DrugSim2DR
-	url = https://github.com/cran/DrugSim2DR
 [submodule "DRviaSPCN"]
 	path = DRviaSPCN
 	url = https://github.com/cran/DRviaSPCN
 [submodule "DTSEA"]
 	path = DTSEA
 	url = https://github.com/hanjunwei-lab/dtsea
+[submodule "DrugSim2DR"]
+	path = DrugSim2DR
+	url = https://github.com/cran/DrugSim2DR
 [submodule "ICDS"]
 	path = ICDS
 	url = https://github.com/hanjunwei-lab/icds
@@ -20,18 +20,18 @@
 [submodule "MiRSEA"]
 	path = MiRSEA
 	url = https://github.com/hanjunwei-lab/mirsea
-[submodule "pathwayTMB"]
-	path = pathwayTMB
-	url = https://github.com/cran/pathwayTMB
 [submodule "PMAPscore"]
 	path = PMAPscore
 	url = https://github.com/hanjunwei-lab/pmapscore
-[submodule "psSubpathway"]
-	path = psSubpathway
-	url = https://github.com/hanjunwei-lab/pssubpathway
 [submodule "SMDIC"]
 	path = SMDIC
 	url = https://github.com/hanjunwei-lab/smdic
 [submodule "SubtypeDrug"]
 	path = SubtypeDrug
 	url = https://github.com/hanjunwei-lab/subtypedrug
+[submodule "pathwayTMB"]
+	path = pathwayTMB
+	url = https://github.com/cran/pathwayTMB
+[submodule "psSubpathway"]
+	path = psSubpathway
+	url = https://github.com/hanjunwei-lab/pssubpathway
