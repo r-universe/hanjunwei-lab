@@ -14,6 +14,9 @@
 [submodule "ICDS"]
 	path = ICDS
 	url = https://github.com/hanjunwei-lab/icds
+[submodule "IDMIR"]
+	path = IDMIR
+	url = https://github.com/cran/IDMIR
 [submodule "LncPath"]
 	path = LncPath
 	url = https://github.com/hanjunwei-lab/lncpath
