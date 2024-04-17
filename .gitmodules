@@ -38,3 +38,6 @@
 [submodule "psSubpathway"]
 	path = psSubpathway
 	url = https://github.com/hanjunwei-lab/pssubpathway
+[submodule "ssMutPA"]
+	path = ssMutPA
+	url = https://github.com/cran/ssMutPA
