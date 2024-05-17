@@ -26,6 +26,9 @@
 [submodule "PMAPscore"]
 	path = PMAPscore
 	url = https://github.com/hanjunwei-lab/pmapscore
+[submodule "ProgModule"]
+	path = ProgModule
+	url = https://github.com/cran/ProgModule
 [submodule "SMDIC"]
 	path = SMDIC
 	url = https://github.com/hanjunwei-lab/smdic
