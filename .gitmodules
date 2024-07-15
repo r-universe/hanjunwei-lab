@@ -38,6 +38,9 @@
 [submodule "SubtypeDrug"]
 	path = SubtypeDrug
 	url = https://github.com/hanjunwei-lab/subtypedrug
+[submodule "iPRISM"]
+	path = iPRISM
+	url = https://github.com/cran/iPRISM
 [submodule "pathwayTMB"]
 	path = pathwayTMB
 	url = https://github.com/cran/pathwayTMB
