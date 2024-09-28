@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CITMIC"]
 	path = CITMIC
-	url = https://github.com/cran/CITMIC
+	url = https://github.com/hanjunwei-lab/citmic
 [submodule "DRviaSPCN"]
 	path = DRviaSPCN
 	url = https://github.com/cran/DRviaSPCN
