@@ -49,4 +49,4 @@
 	url = https://github.com/hanjunwei-lab/pssubpathway
 [submodule "ssMutPA"]
 	path = ssMutPA
-	url = https://github.com/cran/ssMutPA
+	url = https://github.com/hanjunwei-lab/ssmutpa
