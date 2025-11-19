@@ -26,9 +26,6 @@
 [submodule "PMAPscore"]
 	path = PMAPscore
 	url = https://github.com/hanjunwei-lab/pmapscore
-[submodule "ProgModule"]
-	path = ProgModule
-	url = https://github.com/hanjunwei-lab/progmodule
 [submodule "SMDIC"]
 	path = SMDIC
 	url = https://github.com/hanjunwei-lab/smdic
@@ -38,9 +35,6 @@
 [submodule "iPRISM"]
 	path = iPRISM
 	url = https://github.com/cran/iPRISM
-[submodule "pathwayTMB"]
-	path = pathwayTMB
-	url = https://github.com/cran/pathwayTMB
 [submodule "psSubpathway"]
 	path = psSubpathway
 	url = https://github.com/hanjunwei-lab/pssubpathway
