@@ -14,18 +14,12 @@
 [submodule "DrugSim2DR"]
 	path = DrugSim2DR
 	url = https://github.com/hanjunwei-lab/drugsim2dr
-[submodule "ICDS"]
-	path = ICDS
-	url = https://github.com/hanjunwei-lab/icds
 [submodule "IDMIR"]
 	path = IDMIR
 	url = https://github.com/cran/IDMIR
 [submodule "MiRSEA"]
 	path = MiRSEA
 	url = https://github.com/hanjunwei-lab/mirsea
-[submodule "PMAPscore"]
-	path = PMAPscore
-	url = https://github.com/hanjunwei-lab/pmapscore
 [submodule "SMDIC"]
 	path = SMDIC
 	url = https://github.com/hanjunwei-lab/smdic
